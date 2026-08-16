@@ -43,17 +43,15 @@ A sensitivity comparison was conducted to eliminate dry soil/sand false positive
 ---
 
 ## Visualizations
-
 ### 1. Sentinel-1 Radar Backscatter (Grayscale dB)
 | Pre-Flood Baseline (Aug 2024) | Post-Dam Burst (Sept 2024) |
 | :---: | :---: |
-| ![Pre-Flood Radar](assets/Pre_Flood Radar image.png) | ![Post-Flood Radar](assets/Post_Flood Radar image.png) |
+| ![Pre-Flood Radar](assets/Pre_Flood%20Radar%20image.png) | ![Post-Flood Radar](assets/Post_Flood%20Radar%20image.png) |
 
 ### 2. Water Classification & Flood Inundation Extent (-16 dB)
 | Permanent Water Baseline (Alau Dam & River) | Newly Inundated Flood Zone (Sept 2024) |
 | :---: | :---: |
-| ![Permanent Water](assets/Normal_waters_16.png) | ![Flood Extent](assets/Innudated areas_16.png) |
-
+| ![Permanent Water](assets/Normal_waters_16.png) | ![Flood Extent](assets/Inundated%20areas_16.png) |
 ---
 
 ## How to Run the Script

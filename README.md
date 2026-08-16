@@ -1,7 +1,7 @@
 # Satellite Radar (SAR) Flood Extent Mapping: Maiduguri 2024
 
 [![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-API-blue)](https://earthengine.google.com/)
-[![Sentinel-1 SAR](https://img.shields.io/badge/Satellite-Sentinel--1%20SAR-brightgreen)](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-1)
+[![Sentinel-1 SAR](https://img.shields.io/badge/Satellite-Sentinel--1%20SAR-brightgreen)](https://sentinels.copernicus.eu/web/sentinel/missions/sentinelabey-1)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
@@ -44,10 +44,20 @@ A sensitivity comparison was conducted to eliminate dry soil/sand false positive
 
 ## Visualizations
 ### 1. Sentinel-1 Radar Backscatter (Grayscale dB)
-| Pre-Flood Baseline (Aug 2024) | Post-Dam Burst (Sept 2024) |
-| :---: | :---: |
-| <img src="assets/Pre_Flood%20Radar%20image.png" width="100%"> | <img src="assets/Post_Flood%20Radar%20image.png" width="100%"> |
-
+<table>
+  <tr>
+    <th width="50%" align="center">Pre-Flood Baseline (Aug 2024)</th>
+    <th width="50%" align="center">Post-Dam Burst (Sept 2024)</th>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/Pre_Flood%20Radar%20image.png" width="100%" alt="Pre-Flood Radar">
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/Post_Flood%20Radar%20image.png" width="100%" alt="Post-Flood Radar">
+    </td>
+  </tr>
+</table>
 ### 2. Water Classification & Flood Inundation Extent (-16 dB)
 | Permanent Water Baseline (Alau Dam & River) | Newly Inundated Flood Zone (Sept 2024) |
 | :---: | :---: |

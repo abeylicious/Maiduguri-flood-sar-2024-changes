@@ -58,11 +58,22 @@ A sensitivity comparison was conducted to eliminate dry soil/sand false positive
     </td>
   </tr>
 </table>
-### 2. Water Classification & Flood Inundation Extent (-16 dB)
-| Permanent Water Baseline (Alau Dam & River) | Newly Inundated Flood Zone (Sept 2024) |
-| :---: | :---: |
-| <img src="assets/Normal%20waters_16.png" width="100%"> | <img src="assets/Inundated%20areas_16.png" width="100%"> |
 
+### 2. Water Classification & Flood Inundation Extent (-16 dB)
+<table>
+  <tr>
+    <th width="50%" align="center">Permanent Water Baseline (Alau Dam & River)</th>
+    <th width="50%" align="center">Newly Inundated Flood Zone (Sept 2024)</th>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/Normal%20waters_16.png" width="100%" alt="Permanent Water Baseline (-16 dB)">
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/Inundated%20areas_16.png" width="100%" alt="Flood Extent (-16 dB)">
+    </td>
+  </tr>
+</table
 ## How to Run the Script
 
 1. Open the [Google Earth Engine Code Editor](https://code.earthengine.google.com/045778a3ff4739ddbd4e60e27e30d729).

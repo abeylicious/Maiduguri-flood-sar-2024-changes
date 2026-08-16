@@ -4,6 +4,8 @@
 [![Sentinel-1 SAR](https://img.shields.io/badge/Satellite-Sentinel--1%20SAR-brightgreen)](https://sentinels.copernicus.eu/web/sentinel/missions/sentinelabey-1)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+> 📖 **Read the full step-by-step case study on Medium:** [Cloud-Proof Flood Extent Mapping with Sentinel-1 SAR in Google Earth Engine](https://medium.com/@iyanda.abiodun/cloud-proof-flood-extent-mapping-with-sentinel-1-sar-in-google-earth-engine-a-case-study-of-the-dccff875bb61)
+
 ## Overview
 This repository contains a cloud-proof Synthetic Aperture Radar (SAR) change-detection pipeline implemented in **Google Earth Engine (GEE)** to quantify the flood inundation caused by the **Alau Dam collapse in Maiduguri, Borno State, Nigeria (September 2024)**.
 

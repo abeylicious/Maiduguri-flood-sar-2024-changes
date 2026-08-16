@@ -47,18 +47,18 @@ A sensitivity comparison was conducted to eliminate dry soil/sand false positive
 ### 1. Sentinel-1 Radar Backscatter (Grayscale dB)
 | Pre-Flood Baseline (Aug 2024) | Post-Dam Burst (Sept 2024) |
 | :---: | :---: |
-| ![Pre-Flood Radar](assets/pre_flood_radar.png) | ![Post-Flood Radar](assets/post_flood_radar.png) |
+| ![Pre-Flood Radar](assets/Pre_Flood Radar image.png) | ![Post-Flood Radar](assets/Post_Flood Radar image.png) |
 
 ### 2. Water Classification & Flood Inundation Extent (-16 dB)
 | Permanent Water Baseline (Alau Dam & River) | Newly Inundated Flood Zone (Sept 2024) |
 | :---: | :---: |
-| ![Permanent Water](assets/normal_water_16db.png) | ![Flood Extent](assets/flood_extent_16db.png) |
+| ![Permanent Water](assets/Normal_waters_16.png) | ![Flood Extent](assets/Innudated areas_16.png) |
 
 ---
 
 ## How to Run the Script
 
-1. Open the [Google Earth Engine Code Editor](https://code.earthengine.google.com/).
+1. Open the [Google Earth Engine Code Editor](https://code.earthengine.google.com/045778a3ff4739ddbd4e60e27e30d729).
 2. Copy and paste the script from `scripts/sentinel1_flood_extent.js`.
 3. Click **Run** to visualize the layers and view the calculated metrics in the Console.
 
